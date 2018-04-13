@@ -351,10 +351,15 @@ ul#nav li.current a { color: #F06000; }
   -webkit-animation: iot 2s ease;
 }
 
-.android {
-  width: 70%;
+.angular {
+  width: 90%;
   -moz-animation: android 2s ease;
   -webkit-animation: android 2s ease;
+}
+.contact-details {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
 }
 
 @-moz-keyframes cplus {
